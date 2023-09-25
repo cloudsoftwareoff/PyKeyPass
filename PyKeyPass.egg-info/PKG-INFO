@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: PyKeyPass
+Version: 0.1
+Summary:  Python package that generates strong and random passwords.
+Author: Chahid Ahmadi
+Author-email: <chahid.ahmadi@cloudsoftware.tn>
+Keywords: password,random
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+ Python package that generates strong and random passwords. You can specify the length and complexity of the password (e.g., including uppercase letters, lowercase letters, numbers, and special characters). The package should return a randomly generated password
